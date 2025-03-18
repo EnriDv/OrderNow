@@ -1,6 +1,8 @@
 import React from 'react'
 import { Navbar, Container, Nav } from 'react-bootstrap';
-
+//npm install bootstrap si no lo tienen instalado
+// verificar si está instalado
+//vnpm list react-bootstrap
 
 const HomePages = () => {
     let nombre= "Jonathan";
