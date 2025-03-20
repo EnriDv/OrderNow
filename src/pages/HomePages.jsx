@@ -35,9 +35,9 @@ const NavigationBar = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
-              <Nav.Link href="#home">Inicio</Nav.Link>
-              <Nav.Link href="#about">Acerca</Nav.Link>
-              <Nav.Link href="#contact">Contacto</Nav.Link>
+              <Nav.Link href="#account">Mi Cuenta</Nav.Link>
+              <Nav.Link href="#configurations">Configuraciones</Nav.Link>
+              <Nav.Link href="#preferences">Preferencias</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
