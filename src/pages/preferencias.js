@@ -1,1 +1,0 @@
-// aqui va la pagina de preferencias: - - ajustes de preferencias alimenticias, restaurantes favoritos, etc.

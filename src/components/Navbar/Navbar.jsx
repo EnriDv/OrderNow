@@ -26,9 +26,9 @@ const Navigationbar = () => {
             </div>
 
             <Nav>
-              <Nav.Link href="#account">Mi Cuenta</Nav.Link>
-              <Nav.Link href="#configurations">Configuraciones</Nav.Link>
-              <Nav.Link href="/Register">Registrarse</Nav.Link>
+              <Nav.Link href="/my-account">Mi Cuenta</Nav.Link>
+              <Nav.Link href="/configurations">Configuraciones</Nav.Link>
+              <Nav.Link href="/register">Registrarse</Nav.Link>
             </Nav>
           </div>
         </Navbar.Collapse>
