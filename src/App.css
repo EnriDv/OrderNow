@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+.containerInput {
+  width: 100%; /* Ocupa todo el espacio disponible */
+  max-width: 500px; /* No se expande más allá de 500px */
+  padding: 10px; /* Hace que el campo de entrada sea más grande */
+}
