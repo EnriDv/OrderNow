@@ -1,10 +1,15 @@
 import React from 'react'
+import Navigationbar from '../components/Navbar/Navbar'
 
 const RegisterPage = () => {
   return (
-    <div>
-      <h1>Register</h1>
+    <>
+    <Navigationbar/>
+    <div className="container-a">
+      <h1>Registro</h1>
+      <button className="button secondary"> Registrarse</button>
     </div>
+    </>
   )
 }
 

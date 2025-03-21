@@ -41,3 +41,9 @@
   max-width: 500px; /* No se expande más allá de 500px */
   padding: 10px; /* Hace que el campo de entrada sea más grande */
 }
+.container-a {
+  display: grid;
+  justify-content: center; /* Centrar horizontalmente */
+  align-items: center; /* Centrar verticalmente */
+  
+}
